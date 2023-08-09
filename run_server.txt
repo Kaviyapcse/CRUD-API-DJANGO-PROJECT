@@ -1,0 +1,8 @@
+To run the server of this project follow below steps:
+In the terminal type:
+1. python manage.py makemigrations
+2. python manage,py migrate
+This two steps for making the database migrations
+
+Then for running the server:
+python manage.py runserver

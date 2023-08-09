@@ -1,0 +1,6 @@
+Four HTTP methods is used in this project:
+
+1. The get() method process the HTTP GET request
+2. The  post() method process the HTTP POST request
+3. The put() method process the HTTP PUT request
+4. The delete() method process the HTTP DELETE request
